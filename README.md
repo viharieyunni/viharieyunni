@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-![hero image](hero.jpg)
 
-[![LinkedIn Shubham Singh](https://img.shields.io/badge/shusingh-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/shusingh/)
+
+[![LinkedIn Vihari Eyunni](https://img.shields.io/badge/shusingh-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/viharieyunni/)
 
 Welcome to my Github! I'm Vihari, a Data Science student at Indiana University Bloomington. My interests lie in the field of Software Development, Web Development, and Data Science.
 
