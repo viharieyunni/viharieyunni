@@ -34,8 +34,7 @@ Welcome to my Github! I'm Vihari, a Data Science student at Indiana University B
                     <td>
                         <ul>
                             <li>Python</li>
-                            <li>Java</li>
-                            <li>C</li>
+                           
                             <li>Javascript</li>
                             <li>React</li>
                             <li>Node</li>
@@ -43,13 +42,7 @@ Welcome to my Github! I'm Vihari, a Data Science student at Indiana University B
                             <li>HTML/CSS</li>
                         </ul>
                     </td>
-                    <td>
-                        <ul>
-                            <li>C++</li>
-                            <li>PHP</li>
-                            <li>Android</li>
-                        </ul>
-                    </td>
+                   
                 </tr>
                 </table>
             </td>
