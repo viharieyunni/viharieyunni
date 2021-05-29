@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![heroimage](github-01.png)
 
 [![LinkedIn Vihari Eyunni](https://img.shields.io/badge/vihari-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/viharieyunni/)
 
