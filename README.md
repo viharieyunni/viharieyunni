@@ -1,13 +1,6 @@
 ### Hi there 👋
 
 
-**weharry95/weharry95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### Hi there 👋
-
-
 
 [![LinkedIn Vihari Eyunni](https://img.shields.io/badge/vihari-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/viharieyunni/)
 
