@@ -2,7 +2,7 @@
 
 ![heroimage](hero1-01.png)
 
-[![LinkedIn Vihari Eyunni](https://img.shields.io/badge/vihari-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/viharieyunni/)
+[![LinkedIn Vihari Eyunni](https://img.shields.io/badge/vihari-linkedin-green?style=for-the-badge)](https://www.linkedin.com/in/viharieyunni/)
 
 Welcome to my Github! I'm Vihari, a Data Science student at Indiana University Bloomington. My interests lie in the field of Software Development, Web Development, and Data Science.
 
