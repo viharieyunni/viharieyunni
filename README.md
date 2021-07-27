@@ -54,7 +54,7 @@ Welcome to my Github! I'm Vihari, a Data Science student at Indiana University B
                     <td>
                         <ul>
                             <li style="padding:5px"><b>Mathematics:</b> Statistics & Probability</li>
-                            <li style="padding:5px"><b>Libraries:</b> Scikit-learn, pandas,<br> numpy, geopandas, XGBoost</li>
+                            <li style="padding:5px"><b>Libraries:</b> Streamlit, Scikit-learn, pandas,<br> numpy, geopandas, XGBoost</li>
                             <li style="padding:5px"><b>Data Mining:</b> Scrapy, BeautifulSoup</li>
                             <li style="padding:5px"><b>Data Visualization:</b> Seaborn, Matplotlib,<br> Plotly, Tableau, PowerBI</li>
                             <li style="padding:5px"><b>Topics:</b> Machine Learning, Deep learning,<br> Data Storytelling</li>
@@ -69,4 +69,4 @@ Welcome to my Github! I'm Vihari, a Data Science student at Indiana University B
 
 ## 🤝 Open to work
 
-Currently seeking full time positions for Internships/Co-op/Full-time in Data Analyst, Software Engineer, Data Engineer, ui/ux design, web development roles.
+Currently seeking full time positions for Internships/Co-op/Full-time in Data Analyst, Data Scientist, Machine Learning Engineer, Software Engineer, Data Engineer, UI/UX design and Web Development roles.
