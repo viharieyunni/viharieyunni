@@ -1,6 +1,6 @@
 ### Hi there 👋, I am
 
-![heroimage](Vihari_headlineImage-01-01.png)
+![heroimage](Vihari_headlineImage.png)
 
 [![LinkedIn Vihari Eyunni](https://img.shields.io/badge/vihari-linkedin-green?style=for-the-badge)](https://www.linkedin.com/in/viharieyunni/)
 
