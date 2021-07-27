@@ -69,4 +69,4 @@ Welcome to my Github! I'm Vihari, a Data Science student at Indiana University B
 
 ## 🤝 Open to work
 
-Currently seeking Internships/Co-op/Full-time for Data Analyst, Data Scientist, Machine Learning Engineer, Software Engineer, Data Engineer, UI/UX design and Web Development roles.
+Currently seeking Internships/Co-op/Full-time for Data Analyst, Machine Learning Engineer, Software Engineer, UI/UX design and Web Development roles.
