@@ -12,6 +12,7 @@ Welcome to my Github! I'm Vihari, a Data Science student at Indiana University B
 
 - mail: vihari95@outlook.com
 - linkedin: https://www.linkedin.com/in/viharieyunni/
+- Wesbite: www.viharieyunni.github.io
 
 ## ⚙️ Technical Skillset
 
